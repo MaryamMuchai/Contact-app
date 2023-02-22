@@ -4,7 +4,6 @@ import Header from "./Header";
 import Addcontact from "./Addcontact";
 import ContactList from "./ContactList";
 
-
 function App() {
 
   const contacts = [
